@@ -1,0 +1,16 @@
+#color-box {
+    background-color: rgb(0, 0, 0);
+    width: 20em;
+    height: 20em;
+}
+
+
+/* Why this didn't work to set these parameters for all 3 sliders by class, instead of individually in HTML?
+I tried both #input-slider (the div class) and #color-picker (the input class):
+
+#input-slider {
+    max: "255";
+    min: "0";
+    value: "0";
+}
+ */
